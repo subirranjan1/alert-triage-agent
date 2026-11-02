@@ -1,0 +1,3 @@
+# Mock mode (the default, including the eval) needs nothing beyond Python 3.10+.
+# This is only required for live mode:  python src/eval_runner.py --mode groq
+groq>=0.11
